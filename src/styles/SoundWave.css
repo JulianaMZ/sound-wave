@@ -1,0 +1,25 @@
+* {
+    font-family: 'Poppins', sans-serif; 
+}
+h1 {
+    font-size: 3rem;
+    margin-left: 1.3rem;
+    margin-top: 8rem;
+    font-weight: 700;
+    
+}
+
+h3 {
+    margin-left: 1.3rem;
+    font-size: 0.6rem;
+    
+}
+
+.join-now {
+    padding: 0.4rem 1rem;
+    border-radius: 0.4rem;
+    text-decoration: none;
+    color: white;
+    background-color: #1762A7;
+    margin-left: 1.3rem;
+}
